@@ -1,1 +1,13 @@
-spring.application.name=demo1012
+spring:
+  application:
+    name: demo1012
+
+server:
+  port: 8080
+
+demo:
+  data-source:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/demo01?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8
+    username: xujiajun01
+    password: xujiajun945

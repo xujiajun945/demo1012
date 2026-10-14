@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.example.demo1012.dal.dao.DemoMapper" >
+<mapper namespace="com.example.demo1012.dal.dao.DemoMapper">
+
+    <resultMap id="baseResultMap" type="com.example.demo1012.model.Demo01">
+        <id column="id" property="id" />
+        <result column="age" property="age"/>
+        <result column="name" property="name" />
+        <result column="time" property="time" />
+    </resultMap>
+
+    <sql id="baseColumnList" >
+        id, age, `name`, `time`
+    </sql>
+
+    <select id="getByName" resultMap="baseResultMap">
+        SELECT
+            <include refid="baseColumnList"/>
+        FROM
+            demo01
+        WHERE
+            `name` = #{name}
+    </select>
 </mapper>
