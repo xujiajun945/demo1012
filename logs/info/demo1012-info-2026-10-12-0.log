@@ -1,0 +1,1456 @@
+[36m2026-10-12 11:38:27.752[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 3664 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:38:27.754[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:38:28.189[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:38:28.197[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:38:28.198[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:38:28.198[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:38:28.218[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 437 ms
+[36m2026-10-12 11:38:28.430[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:38:28.441[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:38:28.448[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.057 seconds (process running for 1.402)
+[36m2026-10-12 11:38:44.417[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:38:44.420[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:38:46.198[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 26012 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:38:46.199[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:38:46.640[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:38:46.648[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:38:46.648[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:38:46.650[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:38:46.674[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 449 ms
+[36m2026-10-12 11:38:46.885[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:38:46.898[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:38:46.904[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.06 seconds (process running for 1.424)
+[36m2026-10-12 11:39:27.692[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:39:27.696[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:39:29.591[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 25044 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:39:29.593[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:39:30.031[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:39:30.039[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:39:30.040[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:39:30.040[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:39:30.063[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 444 ms
+[36m2026-10-12 11:39:30.273[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:39:30.285[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:39:30.291[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.066 seconds (process running for 1.42)
+[36m2026-10-12 11:39:40.495[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:39:40.499[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:40:07.325[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 25480 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:40:07.327[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:40:07.753[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:40:07.761[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:40:07.762[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:40:07.762[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:40:07.791[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 435 ms
+[36m2026-10-12 11:40:07.990[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:40:08.000[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:40:08.007[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.019 seconds (process running for 1.362)
+[36m2026-10-12 11:42:30.314[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:42:30.318[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:42:33.033[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 21836 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:42:33.034[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:42:33.487[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:42:33.496[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:42:33.496[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:42:33.497[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:42:33.520[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 460 ms
+[36m2026-10-12 11:42:33.729[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:42:33.741[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:42:33.747[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.086 seconds (process running for 1.467)
+[36m2026-10-12 11:43:35.730[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:43:35.732[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:43:37.678[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 26664 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:43:37.679[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:43:38.105[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:43:38.113[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:43:38.114[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:43:38.114[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:43:38.137[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 432 ms
+[36m2026-10-12 11:43:38.355[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:43:38.365[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:43:38.371[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.047 seconds (process running for 1.385)
+[36m2026-10-12 11:47:43.137[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:47:43.140[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:47:45.753[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 21020 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:47:45.754[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:47:46.197[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:47:46.204[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:47:46.205[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:47:46.206[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:47:46.233[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 450 ms
+[36m2026-10-12 11:47:46.434[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:47:46.444[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:47:46.451[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.05 seconds (process running for 1.422)
+[36m2026-10-12 11:48:56.004[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:48:56.007[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:48:58.057[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 28464 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:48:58.059[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:48:58.482[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:48:58.489[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:48:58.490[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:48:58.490[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:48:58.511[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 426 ms
+[36m2026-10-12 11:48:58.715[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:48:58.727[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:48:58.734[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.044 seconds (process running for 1.407)
+[36m2026-10-12 11:51:59.880[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:51:59.883[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:52:53.403[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 24700 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:52:53.404[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:52:53.849[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:52:53.858[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:52:53.859[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:52:53.859[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:52:53.888[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 454 ms
+[36m2026-10-12 11:52:54.103[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:52:54.114[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:52:54.120[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.052 seconds (process running for 1.413)
+[36m2026-10-12 11:58:12.913[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 11:58:12.917[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 11:58:14.823[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 27 with PID 24376 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 11:58:14.824[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 11:58:15.276[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 11:58:15.285[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:58:15.286[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 11:58:15.286[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 11:58:15.308[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 458 ms
+[36m2026-10-12 11:58:15.514[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 11:58:15.524[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 11:58:15.530[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.053 seconds (process running for 1.418)
+[36m2026-10-12 12:21:31.855[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 23896 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:21:31.857[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:21:32.315[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:21:32.324[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:21:32.324[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:21:32.324[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:21:32.360[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 476 ms
+[36m2026-10-12 12:21:32.598[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:21:32.612[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:21:32.621[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.183 seconds (process running for 1.577)
+[36m2026-10-12 12:36:24.572[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012ApplicationTests[0;39m - Starting Demo1012ApplicationTests using Java 17.0.12 with PID 28760 (started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:36:24.574[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012ApplicationTests[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:36:25.398[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012ApplicationTests[0;39m - Started Demo1012ApplicationTests in 1.172 seconds (process running for 2.505)
+[36m2026-10-12 12:37:16.477[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 2584 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:37:16.479[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:37:16.977[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:37:16.987[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:37:16.988[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:37:16.988[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:37:17.017[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 511 ms
+[36m2026-10-12 12:37:17.255[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:37:17.273[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:37:17.282[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.193 seconds (process running for 2.011)
+[36m2026-10-12 12:38:01.092[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:38:01.116[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 12:38:06.844[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 23492 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:38:06.846[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:38:07.300[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:38:07.307[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:38:07.308[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:38:07.308[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:38:07.340[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 467 ms
+[36m2026-10-12 12:38:07.574[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:38:07.588[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:38:07.595[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.12 seconds (process running for 1.554)
+[36m2026-10-12 12:40:25.530[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-2] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 12:40:25.530[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-2] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 12:40:25.532[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-2] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 1 ms
+[36m2026-10-12 12:43:16.017[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:43:16.042[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 12:43:33.597[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 26856 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:43:33.599[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:43:34.075[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:43:34.083[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:43:34.085[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:43:34.085[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:43:34.121[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 495 ms
+[36m2026-10-12 12:43:34.361[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:43:34.373[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:43:34.380[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.176 seconds (process running for 1.636)
+[36m2026-10-12 12:43:47.818[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-3] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 12:43:47.818[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-3] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 12:43:47.820[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-3] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 2 ms
+[36m2026-10-12 12:47:26.339[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:47:26.366[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 12:47:29.251[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 18232 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:47:29.253[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:47:29.742[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:47:29.750[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:47:29.751[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:47:29.751[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:47:29.783[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 502 ms
+[36m2026-10-12 12:47:30.016[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:47:30.029[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:47:30.035[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.153 seconds (process running for 1.583)
+[36m2026-10-12 12:47:36.437[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 12:47:36.437[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 12:47:36.438[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 1 ms
+[36m2026-10-12 12:48:03.596[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:48:03.624[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 12:48:06.419[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 7252 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:48:06.422[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:48:06.885[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:48:06.895[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:48:06.896[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:48:06.896[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:48:06.924[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 477 ms
+[36m2026-10-12 12:48:07.165[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:48:07.178[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:48:07.186[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.135 seconds (process running for 1.601)
+[36m2026-10-12 12:48:13.236[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 12:48:13.236[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 12:48:13.237[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 1 ms
+[36m2026-10-12 12:56:37.088[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:56:37.115[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 12:56:39.940[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 18968 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:56:39.943[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:56:40.575[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:56:40.586[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:56:40.587[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:56:40.587[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:56:40.625[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 645 ms
+[36m2026-10-12 12:56:40.903[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:56:40.916[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:56:40.928[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.443 seconds (process running for 1.859)
+[36m2026-10-12 12:57:04.947[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 12:57:04.947[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 12:57:04.952[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 5 ms
+[36m2026-10-12 12:57:04.980[0;39m [1;33mERROR[0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[.[dispatcherServlet][0;39m - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Circular view path [hello]: would dispatch back to the current handler URL [/web/hello] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)] with root cause
+jakarta.servlet.ServletException: Circular view path [hello]: would dispatch back to the current handler URL [/web/hello] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)
+	at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:210)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:148)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:307)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1305)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1042)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:980)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:535)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[36m2026-10-12 12:59:06.976[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:59:07.001[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 12:59:12.635[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 26288 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 12:59:12.637[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 12:59:13.094[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 12:59:13.104[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:59:13.105[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 12:59:13.105[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 12:59:13.137[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 475 ms
+[36m2026-10-12 12:59:13.382[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 12:59:13.396[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 12:59:13.404[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.134 seconds (process running for 1.56)
+[36m2026-10-12 12:59:45.337[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:59:45.360[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 13:00:13.363[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 11632 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 13:00:13.365[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 13:00:13.821[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 13:00:13.829[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 13:00:13.830[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 13:00:13.830[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 13:00:13.861[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 470 ms
+[36m2026-10-12 13:00:14.099[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 13:00:14.112[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 13:00:14.118[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.117 seconds (process running for 1.513)
+[36m2026-10-12 13:00:40.348[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012ApplicationTests[0;39m - Starting Demo1012ApplicationTests using Java 17.0.12 with PID 15028 (started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 13:00:40.351[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012ApplicationTests[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 13:00:41.133[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012ApplicationTests[0;39m - Started Demo1012ApplicationTests in 1.101 seconds (process running for 1.915)
+[36m2026-10-12 13:00:58.406[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 5432 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 13:00:58.408[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 13:00:58.903[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 13:00:58.912[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 13:00:58.914[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 13:00:58.914[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.24]
+[36m2026-10-12 13:00:58.949[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 511 ms
+[36m2026-10-12 13:00:59.187[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 13:00:59.199[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 13:00:59.208[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.168 seconds (process running for 1.543)
+[36m2026-10-12 13:01:10.841[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 13:01:10.841[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 13:01:10.841[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 0 ms
+[36m2026-10-12 13:01:10.878[0;39m [1;33mERROR[0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[.[dispatcherServlet][0;39m - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Circular view path [hello]: would dispatch back to the current handler URL [/web/hello] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)] with root cause
+jakarta.servlet.ServletException: Circular view path [hello]: would dispatch back to the current handler URL [/web/hello] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)
+	at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:210)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:148)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:307)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1305)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1042)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:980)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:535)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[36m2026-10-12 13:06:48.904[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 13:06:48.928[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 19:29:23.626[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 19392 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 19:29:23.629[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 19:29:24.141[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 19:29:24.148[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 19:29:24.150[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 19:29:24.150[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-12 19:29:24.179[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 519 ms
+[36m2026-10-12 19:29:24.418[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 19:29:24.431[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 19:29:24.438[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.187 seconds (process running for 1.678)
+[36m2026-10-12 19:29:51.992[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 19:29:51.992[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 19:29:51.992[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 0 ms
+[36m2026-10-12 20:41:55.604[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 20:41:55.637[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 20:41:59.723[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 28416 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 20:41:59.725[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 20:42:00.433[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 20:42:00.441[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:42:00.442[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 20:42:00.442[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-12 20:42:00.472[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 719 ms
+[36m2026-10-12 20:42:00.595[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-12 20:42:00.829[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:42:00.842[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 20:42:00.851[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.511 seconds (process running for 1.873)
+[36m2026-10-12 20:45:12.793[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 20:45:12.821[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 20:45:12.822[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-0} closing ...
+[36m2026-10-12 20:45:16.793[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 5144 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 20:45:16.796[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 20:45:17.425[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 20:45:17.435[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:45:17.436[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 20:45:17.436[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-12 20:45:17.467[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 640 ms
+[36m2026-10-12 20:45:17.587[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-12 20:45:17.829[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:45:17.843[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 20:45:17.853[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.439 seconds (process running for 1.831)
+[36m2026-10-12 20:47:06.143[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 20:47:06.169[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 20:47:06.171[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-0} closing ...
+[36m2026-10-12 20:47:09.307[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 12388 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 20:47:09.309[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 20:47:09.944[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 20:47:09.957[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:47:09.958[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 20:47:09.958[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-12 20:47:09.990[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 651 ms
+[36m2026-10-12 20:47:10.053[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: null null
+[36m2026-10-12 20:47:10.110[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-12 20:47:10.350[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:47:10.362[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 20:47:10.370[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.428 seconds (process running for 1.838)
+[36m2026-10-12 20:49:23.060[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 20:49:23.086[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 20:49:23.088[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-0} closing ...
+[36m2026-10-12 20:49:27.266[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 16740 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 20:49:27.268[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 20:49:27.900[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 20:49:27.910[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:49:27.912[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 20:49:27.912[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-12 20:49:27.944[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 649 ms
+[36m2026-10-12 20:49:28.011[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: null null
+[36m2026-10-12 20:49:28.068[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-12 20:49:28.323[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:49:28.336[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 20:49:28.344[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.454 seconds (process running for 1.864)
+[36m2026-10-12 20:54:52.686[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 20:54:52.711[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 20:54:52.714[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-0} closing ...
+[36m2026-10-12 20:54:55.925[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 9520 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 20:54:55.927[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 20:54:56.556[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 20:54:56.566[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:54:56.567[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 20:54:56.567[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-12 20:54:56.599[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 641 ms
+[36m2026-10-12 20:54:56.692[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver civic_20200706
+[36m2026-10-12 20:54:56.716[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-12 20:54:56.952[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:54:56.964[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 20:54:56.973[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.43 seconds (process running for 1.818)
+[36m2026-10-12 20:59:42.044[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 20:59:42.071[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 20:59:42.074[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-0} closing ...
+[36m2026-10-12 20:59:45.584[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 26916 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-12 20:59:45.587[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-12 20:59:46.232[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-12 20:59:46.242[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:59:46.243[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-12 20:59:46.243[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-12 20:59:46.274[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 658 ms
+[36m2026-10-12 20:59:46.370[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver civic_20200706
+[36m2026-10-12 20:59:46.392[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-12 20:59:46.640[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-12 20:59:46.653[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-12 20:59:46.661[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.441 seconds (process running for 1.817)
+[36m2026-10-12 21:00:19.504[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-12 21:00:19.504[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-12 21:00:19.504[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 0 ms
+[36m2026-10-12 21:00:19.570[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} inited
+[36m2026-10-12 21:00:23.709[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:27.731[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:27.731[0;39m [1;33mINFO [0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidAbstractDataSource[0;39m - {dataSource-1} failContinuous is true
+[36m2026-10-12 21:00:32.285[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: 不知道这样的主机。 (rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:36.818[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:41.338[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:45.875[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:50.404[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:54.951[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: 不知道这样的主机。 (rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:00:59.479[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:04.018[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:08.551[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:13.081[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:17.621[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: 不知道这样的主机。 (rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:22.153[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:26.682[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:31.217[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:35.740[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:40.266[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: 不知道这样的主机。 (rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:44.780[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:49.309[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:53.846[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:01:58.368[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:02:02.908[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: 不知道这样的主机。 (rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:02:07.423[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:02:11.948[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted
+[36m2026-10-12 21:02:12.528[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 21:02:16.497[0;39m [1;33mERROR[0;39m [Druid-ConnectionPool-Create-1697752348] [34mc.a.d.p.DruidDataSource[0;39m - create connection SQLException, url: jdbc:mysql://rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com:3306/civic?useAffectedRows=true&autoReconnect=true&useUnicode=true&characterEncoding=utf-8, errorCode 0, state 08001
+java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:898)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1690)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1811)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2793)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:842)
+	... 7 common frames omitted
+Caused by: java.net.UnknownHostException: rm-2ze8iyy8c159cah8io.mysql.rds.aliyuncs.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:130)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 9 common frames omitted

@@ -1,0 +1,275 @@
+[36m2026-10-13 13:22:20.494[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 6876 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-13 13:22:20.496[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-13 13:22:21.232[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-13 13:22:21.245[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:22:21.246[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-13 13:22:21.246[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-13 13:22:21.280[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 753 ms
+[36m2026-10-13 13:22:21.393[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver xujiajun01
+[36m2026-10-13 13:22:21.425[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-13 13:22:21.701[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:22:21.713[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-13 13:22:21.723[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.658 seconds (process running for 2.533)
+[36m2026-10-13 13:24:46.538[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-13 13:24:46.538[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-13 13:24:46.538[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 0 ms
+[36m2026-10-13 13:24:46.610[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} inited
+[36m2026-10-13 13:24:46.966[0;39m [1;33mERROR[0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[.[dispatcherServlet][0;39m - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'demo01.demo' doesn't exist
+### The error may exist in com/example/demo1012/dal/dao/DemoMapper.java (best guess)
+### The error may involve com.example.demo1012.dal.dao.DemoMapper.getById-Inline
+### The error occurred while setting parameters
+### SQL: SELECT * FROM demo WHERE id = ?
+### Cause: java.sql.SQLSyntaxErrorException: Table 'demo01.demo' doesn't exist
+; bad SQL grammar []] with root cause
+java.sql.SQLSyntaxErrorException: Table 'demo01.demo' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:483)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:65)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:80)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:65)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:158)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:110)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:90)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:154)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:142)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:75)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:348)
+	at jdk.proxy2/jdk.proxy2.$Proxy67.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:169)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy2/jdk.proxy2.$Proxy69.getById(Unknown Source)
+	at com.example.demo1012.service.impl.DemoServiceImpl.getById(DemoServiceImpl.java:22)
+	at com.example.demo1012.web.DemoController.demo01(DemoController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2201)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[36m2026-10-13 13:41:04.281[0;39m [1;33mERROR[0;39m [http-nio-8080-exec-4] [34mo.a.c.c.C.[.[.[.[dispatcherServlet][0;39m - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'demo01.demo' doesn't exist
+### The error may exist in com/example/demo1012/dal/dao/DemoMapper.java (best guess)
+### The error may involve com.example.demo1012.dal.dao.DemoMapper.getById-Inline
+### The error occurred while setting parameters
+### SQL: SELECT * FROM demo WHERE id = ?
+### Cause: java.sql.SQLSyntaxErrorException: Table 'demo01.demo' doesn't exist
+; bad SQL grammar []] with root cause
+java.sql.SQLSyntaxErrorException: Table 'demo01.demo' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:483)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:65)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:80)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:65)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:158)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:110)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:90)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:154)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:142)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:75)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:348)
+	at jdk.proxy2/jdk.proxy2.$Proxy67.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:169)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy2/jdk.proxy2.$Proxy69.getById(Unknown Source)
+	at com.example.demo1012.service.impl.DemoServiceImpl.getById(DemoServiceImpl.java:22)
+	at com.example.demo1012.web.DemoController.demo01(DemoController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2201)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[36m2026-10-13 13:41:43.194[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-13 13:41:43.218[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-13 13:41:43.222[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closing ...
+[36m2026-10-13 13:41:43.223[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closed
+[36m2026-10-13 13:41:46.939[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 15736 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-13 13:41:46.942[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-13 13:41:47.562[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-13 13:41:47.572[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:41:47.573[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-13 13:41:47.573[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-13 13:41:47.604[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 637 ms
+[36m2026-10-13 13:41:47.696[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver xujiajun01
+[36m2026-10-13 13:41:47.718[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-13 13:41:47.960[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:41:47.972[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-13 13:41:47.981[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.416 seconds (process running for 1.844)
+[36m2026-10-13 13:41:53.671[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-13 13:41:53.671[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-13 13:41:53.671[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 0 ms
+[36m2026-10-13 13:41:53.737[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} inited
+[36m2026-10-13 13:41:54.014[0;39m [1;33mWARN [0;39m [http-nio-8080-exec-1] [34mc.e.d.s.i.DemoServiceImpl[0;39m - 张三
+[36m2026-10-13 13:48:39.182[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-13 13:48:39.208[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-13 13:48:39.210[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closing ...
+[36m2026-10-13 13:48:39.213[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closed
+[36m2026-10-13 13:48:41.356[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 16292 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-13 13:48:41.359[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-13 13:48:41.967[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-13 13:48:41.976[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:48:41.977[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-13 13:48:41.977[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-13 13:48:42.009[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 623 ms
+[36m2026-10-13 13:48:42.109[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver xujiajun01
+[36m2026-10-13 13:48:42.132[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-13 13:48:42.385[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:48:42.399[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-13 13:48:42.408[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.447 seconds (process running for 1.82)
+[36m2026-10-13 13:49:22.663[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-13 13:49:22.690[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-13 13:49:22.692[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-0} closing ...
+[36m2026-10-13 13:49:24.779[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 17552 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-13 13:49:24.781[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-13 13:49:25.398[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-13 13:49:25.407[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:49:25.409[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-13 13:49:25.409[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-13 13:49:25.440[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 631 ms
+[36m2026-10-13 13:49:25.537[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver xujiajun01
+[36m2026-10-13 13:49:25.560[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-13 13:49:25.813[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:49:25.825[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-13 13:49:25.830[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.422 seconds (process running for 1.831)
+[36m2026-10-13 13:50:19.750[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-13 13:50:19.750[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-13 13:50:19.751[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 1 ms
+[36m2026-10-13 13:50:19.834[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} inited
+[36m2026-10-13 13:50:20.101[0;39m [1;33mWARN [0;39m [http-nio-8080-exec-1] [34mc.e.d.s.i.DemoServiceImpl[0;39m - 张三
+[36m2026-10-13 13:52:50.986[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-13 13:52:51.011[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-13 13:52:51.015[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closing ...
+[36m2026-10-13 13:52:51.018[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closed
+[36m2026-10-13 13:52:53.044[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 10708 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-13 13:52:53.046[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-13 13:52:53.637[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-13 13:52:53.645[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:52:53.646[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-13 13:52:53.646[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-13 13:52:53.677[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 604 ms
+[36m2026-10-13 13:52:53.769[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver xujiajun01
+[36m2026-10-13 13:52:53.790[0;39m [1;33mWARN [0;39m [main] [34mo.m.s.SqlSessionFactoryBean[0;39m - Property 'mapperLocations' was specified but matching resources are not found.
+[36m2026-10-13 13:52:54.009[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 13:52:54.021[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-13 13:52:54.025[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.384 seconds (process running for 1.764)
+[36m2026-10-13 15:46:48.573[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-13 15:46:48.601[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-13 15:46:48.604[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-0} closing ...
+[36m2026-10-13 20:23:32.117[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Starting Demo1012Application using Java 17.0.20.1 with PID 13948 (D:\git-workspace\demo1012\target\classes started by 39203 in D:\git-workspace\demo1012)
+[36m2026-10-13 20:23:32.119[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - No active profile set, falling back to 1 default profile: "default"
+[36m2026-10-13 20:23:32.834[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat initialized with port 8080 (http)
+[36m2026-10-13 20:23:32.844[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 20:23:32.845[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardService[0;39m - Starting service [Tomcat]
+[36m2026-10-13 20:23:32.846[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/11.0.26]
+[36m2026-10-13 20:23:32.874[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.w.c.s.WebApplicationContextInitializer[0;39m - Root WebApplicationContext: initialization completed in 726 ms
+[36m2026-10-13 20:23:32.965[0;39m [1;33mWARN [0;39m [main] [34mc.e.d.c.DataSourceConfiguration[0;39m - druid data source: com.mysql.cj.jdbc.Driver xujiajun01
+[36m2026-10-13 20:23:33.309[0;39m [1;33mINFO [0;39m [main] [34mo.a.c.h.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[36m2026-10-13 20:23:33.322[0;39m [1;33mINFO [0;39m [main] [34mo.s.b.t.TomcatWebServer[0;39m - Tomcat started on port 8080 (http) with context path '/'
+[36m2026-10-13 20:23:33.326[0;39m [1;33mINFO [0;39m [main] [34mc.e.d.Demo1012Application[0;39m - Started Demo1012Application in 1.623 seconds (process running for 2.435)
+[36m2026-10-13 20:23:41.592[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[36m2026-10-13 20:23:41.592[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+[36m2026-10-13 20:23:41.593[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 1 ms
+[36m2026-10-13 20:23:41.658[0;39m [1;33mINFO [0;39m [http-nio-8080-exec-1] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} inited
+[36m2026-10-13 20:23:41.917[0;39m [1;33mWARN [0;39m [http-nio-8080-exec-1] [34mc.e.d.s.i.DemoServiceImpl[0;39m - 张三
+[36m2026-10-13 20:24:45.249[0;39m [1;33mWARN [0;39m [http-nio-8080-exec-6] [34mc.e.d.s.i.DemoServiceImpl[0;39m - 张三

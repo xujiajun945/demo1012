@@ -1,0 +1,4 @@
+[36m2026-10-14 00:52:12.842[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-14 00:52:12.888[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-14 00:52:12.898[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closing ...
+[36m2026-10-14 00:52:12.902[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mc.a.d.p.DruidDataSource[0;39m - {dataSource-1} closed

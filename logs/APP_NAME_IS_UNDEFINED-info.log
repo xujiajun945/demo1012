@@ -1,0 +1,6 @@
+[36m2026-10-12 12:02:51.763[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:02:51.767[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 12:34:41.502[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 12:34:41.529[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
+[36m2026-10-12 13:00:55.745[0;39m [1;33mINFO [0;39m [SpringApplicationShutdownHook] [34mo.s.b.t.GracefulShutdown[0;39m - Commencing graceful shutdown. Waiting for active requests to complete
+[36m2026-10-12 13:00:55.772[0;39m [1;33mINFO [0;39m [tomcat-shutdown] [34mo.s.b.t.GracefulShutdown[0;39m - Graceful shutdown complete
